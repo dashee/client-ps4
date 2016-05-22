@@ -1,0 +1,16 @@
+{
+  "name": "ps4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ps4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shahmir Javaid <shahmirj@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ds4": "^1.0.0-rc1",
+    "node-hid": "^0.5.1",
+    "through": "^2.3.8"
+  }
+}
