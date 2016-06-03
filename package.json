@@ -9,6 +9,7 @@
   "author": "Shahmir Javaid <shahmirj@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "command-line-args": "^3.0.0",
     "ds4": "^1.0.0-rc1",
     "node-hid": "^0.5.1",
     "through": "^2.3.8"
